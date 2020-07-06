@@ -1,0 +1,10 @@
+Django==3.0.8
+django-contrib-postgres==0.0.1
+django-filter==2.3.0
+djangorestframework==3.11.0
+Markdown==3.2.2
+psycopg2==2.8.5
+pyOpenSSL==19.1.0
+coreapi==2.3.3
+pyqrcode
+pypng
